@@ -1,6 +1,6 @@
 /* PromptVault Studio service worker: app-shell offline caching.
    Cache-first for same-origin GET; network fallback updates the cache. */
-const CACHE = 'promptvault-v1'
+const CACHE = 'promptvault-v2'
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
