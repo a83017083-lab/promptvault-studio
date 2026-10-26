@@ -1,0 +1,13 @@
+{
+  "name": "PromptVault Studio",
+  "short_name": "PromptVault",
+  "description": "Personal library for n8n workflows, AI prompts, PDFs, guides and code.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8F7F4",
+  "theme_color": "#F8F7F4",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
